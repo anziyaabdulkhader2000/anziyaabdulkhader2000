@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anziya Abdulkhader
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 👀 I’m interested 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me @anziyaabdulkhader1726@gmail.com
 
